@@ -1,0 +1,16 @@
+.header {
+  height: 7rem;
+  font-size: 1.4rem;
+  background-color: var(--color-white);
+  border-bottom: var(--line);
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  @media only screen and (max-width: $bp-smallest) {
+    flex-wrap: wrap;
+    align-content: space-around;
+    height: 11rem;
+  }
+}

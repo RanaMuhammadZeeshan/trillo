@@ -7,4 +7,24 @@
 @import 'base/typography';
 @import 'base/utilities';
 
-@import 'layout/layout';
+@import 'components/button';
+@import 'components/button-inline';
+@import 'components/cta';
+@import 'components/gallery';
+@import 'components/legat-text';
+@import 'components/logo';
+@import 'components/overview';
+@import 'components/search';
+@import 'components/side-nav';
+@import 'components/user-nav';
+@import 'components/list';
+@import 'components/paragraph';
+@import 'components/recommend';
+@import 'components/reviews';
+
+@import 'layout/container';
+@import 'layout/content';
+@import 'layout/detail';
+@import 'layout/header';
+@import 'layout/main-view';
+@import 'layout/sidebar';

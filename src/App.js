@@ -1,8 +1,11 @@
+import React from 'react'
+import Home from './pages/home'
+
 function App() {
   return (
-    <div>
-      <h2>Hello</h2>
-    </div>
+    <React.Fragment>
+      <Home />
+    </React.Fragment>
   )
 }
 
