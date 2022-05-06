@@ -2,7 +2,7 @@ import React from 'react'
 
 import logoImage from '../../assets/img/logo.png'
 import sprite from '../../assets/svg/sprite.svg'
-import userLogin from '../../assets/img/user.jpg'
+import userLogin from '../../assets/img/xee.jpg'
 
 const Header = () => {
   return (
